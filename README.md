@@ -1,5 +1,5 @@
 # drinky
-Drinky is a standalone Java GUI application (using Swing) that allows a user to search a collection of mixed drinks. The data consists of a set of drink names with the ingredients, instructions and other related information for each drink. Drinky is available for free (the link is at the bottom of this page), and offers a number of options for searching:
+Drinky is a standalone Java GUI application (using Swing) that allows a user to search a collection of mixed drinks. The data consists of a set of drink names with the ingredients, instructions and other related information for each drink. Drinky offers a number of options for searching:
 
 * Wildcard searches (using '\*' and '%')
 * Soundex (words that sound similar)
